@@ -40,3 +40,8 @@ npm install
 npm run seed        # crea las tablas y carga los datos de ejemplo
 npm run start:dev   # http://localhost:3000
 ```
+
+
+## Deployed on:
+
+https://calculo-comisiones-api.onrender.com/
